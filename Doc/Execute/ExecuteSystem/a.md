@@ -12,7 +12,6 @@ Execute System has predefined kinds of compute commands to do any computation.
 
 
 
-Execute System can executes 120 exa compute commands.
 
 
 
