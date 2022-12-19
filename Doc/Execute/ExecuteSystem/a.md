@@ -2,10 +2,19 @@
 
 
 
-Execute System executes compute commands to do effects.
+Execute System executes compute commands to do computation.
 
 
-Effects that can be done by Execute System is built in Execute System.
+
+Execute System has predefined kinds of compute commands to do any computation.
+
+
+
+
+
+
+
+
 
 
 
