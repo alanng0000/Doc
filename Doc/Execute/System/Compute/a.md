@@ -21,5 +21,9 @@ There are predefined kinds of compute commands.
 
 - Toa
 
+
+- Inf
+
+
 - Ins
 - Out
