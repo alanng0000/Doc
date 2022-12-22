@@ -13,7 +13,4 @@ Address starts from 0. Address increments 1 for each next address. The last addr
 Address refers to one byte in the addressable store.
 The first byte is at address 0.
 For any byte A, the next byte is at address that is address of A added with 1.
-
-
-The next address after address 2^64 - 1 is 0.
-The next byte after byte at address 2^64 -1 is the byte at address 0.
+The byte at last address has no next byte because there is no next address.
