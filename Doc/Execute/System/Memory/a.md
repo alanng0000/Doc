@@ -10,4 +10,4 @@ Data is read from it and written to it with compute commands.
 
 
 
-Execute System loads Execute Program from the permanent store to the addressable store.
+When Execute is switch on, Execute System loads Execute Program from the permanent store to the addressable store.
