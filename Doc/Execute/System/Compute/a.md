@@ -1,4 +1,4 @@
-# **Compute Command**
+# **Compute**
 
 
 There are predefined kinds of compute commands.
