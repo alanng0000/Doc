@@ -4,7 +4,7 @@
 
 
 
-This Doc use [English](English/a.md) with language rules that meaning can be always conveyed.
+This Doc use [English](English/a.md) with language rules that meaning can be always expressed.
 
 
 
