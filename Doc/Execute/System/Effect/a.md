@@ -1,7 +1,7 @@
 # **Execute System Effect**
 
 Execute System Effect has 6 kinds of effect. They are
-- Control
+- [Control](Control/a.md)
 - Time
 - Video
 - Audio
