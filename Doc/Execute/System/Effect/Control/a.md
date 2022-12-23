@@ -1,4 +1,4 @@
-# ** Execute System Effect Control**
+# **Execute System Effect Control**
 
 
 Execute System Effect Control is a thing that accept input from user.
