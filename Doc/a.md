@@ -10,6 +10,11 @@ This Doc use [English](English/a.md) with language rules that meaning can be alw
 
 
 
+**Terra** is public with license no obligate.
+
+
+
+
 
 **Terra** is execute platform.
 
