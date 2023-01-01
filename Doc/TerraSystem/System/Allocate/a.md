@@ -19,7 +19,7 @@ Terra System System allocate Memory to make Object when Object is not store in r
 Memory allocate to [Object](../../../Class/Object/a.md) is consist of all field data of class derive,
 Int A, Int B, Int C, Int D.
 Memory is continue in byte for all data to allocate.
-All data is allocate in 1 time.
+All Memory space is available in 1 allocate.
 
 
 
