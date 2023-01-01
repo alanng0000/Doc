@@ -47,7 +47,7 @@ Int A is sub 1 when a field of Object is set from refer to N to not refer to N.
 
 
 Refer graph is traverse by check Int D flag A, first traverse if 1, not traverse again. if 0, queue it and set 1.
-Next graph traverse, check Int D flag A opposite of previous graph traverse value.
+Next graph traverse, check Int D flag A for opposite value of previous graph traverse, and set opposite value of previous graph traverse.
 
 Object A is traverse by link current tail Object B Int C to refer to Object A.
 
