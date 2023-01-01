@@ -65,6 +65,6 @@ Refer graph root of Object N is traverse again to free Memory of all Object that
 
 
 
-Allocate Memory consist of Terra Op.
-Traverse refer graph consist of Terra Op.
-Free Memory consist of Terra Op.
+Allocate Memory consist of Terra Op List.
+Traverse refer graph consist of Terra Op List.
+Free Memory consist of Terra Op List.
