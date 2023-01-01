@@ -13,3 +13,5 @@ Memory Block is in 2^16 byte size.
 
 
 
+Memory allocate to [Object](../../../Class/Object/a.md) is consist of all field data of class derive,
+refer count from any Object, 
