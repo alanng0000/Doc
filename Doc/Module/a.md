@@ -9,5 +9,5 @@ Module is task for [Terra System](../TerraSystem/a.md).
 
 
 
-Module do what that Terra Op List it have.
+Module do what that [Terra Op](../TerraOp/a.md) List it have.
 It Terra Op list is execute by Terra System.
