@@ -56,6 +56,8 @@ Object A is traverse by link current tail Object B Int C to refer to Object A.
 
 When Object N data Int A is 0, refer graph from Object N is traverse to set Int B, Int C 0, set Int D flag B 0 for all Object in graph.
 
+Refer graph is traverse again so Object Int D flag A is back to 0.
+
 Refer graph is traverse again to add Int B by 1 for refer by Object in graph.
 
 Refer graph is traverse again to link list all Object that has Int A and Int B not equal by set Int C to refer to next Object.
