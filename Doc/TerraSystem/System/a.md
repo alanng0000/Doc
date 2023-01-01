@@ -1,4 +1,4 @@
 # **Terra System System**
 
 
-Terra System System is system that execute commands in any module.
+Terra System System is system that execute op in any module.
