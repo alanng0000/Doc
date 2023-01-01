@@ -14,4 +14,11 @@ Memory Block is in 2^16 byte size.
 
 
 Memory allocate to [Object](../../../Class/Object/a.md) is consist of all field data of class derive,
-refer count from any Object, 
+Int A, Int B, Int C, Int D.
+
+
+
+Int A is refer count from any Object.
+
+
+Int B is refer count from any Object in refer graph that has root Object that is to be free.
