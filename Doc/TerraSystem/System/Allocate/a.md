@@ -17,7 +17,7 @@ Terra System System allocate Memory to make Object when Object is not store in r
 
 
 Memory allocate to [Object](../../../Class/Object/a.md) is consist of all field data of class derive,
-Int A, Int B, Int C.
+Int A, Int B, Int C, Int D.
 Memory is continue in byte for all data to allocate.
 All data is allocate in 1 time.
 
@@ -52,6 +52,7 @@ Refer graph is traverse again to link list all Object that has Int A and Int B n
 
 Link list is iter with Int C to traverse refer graph each root that is Object in list to set all Object in the refer graph list Int D to 1.
 
+Refer graph root of Object N is traverse again to free Memory of all Object that has Int D 0.
 
 
 
