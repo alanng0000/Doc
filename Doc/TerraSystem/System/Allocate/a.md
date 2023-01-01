@@ -12,7 +12,7 @@ Memory Block is in 2^16 byte size.
 
 
 
-Terra System System allocate Memory to make Object when Object is not stored in refer to it.
+Terra System System allocate Memory to make Object when Object is not store in refer to it.
 
 
 
