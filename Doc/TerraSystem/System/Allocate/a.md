@@ -38,7 +38,7 @@ Int A is sub 1 when a field of Object is set from refer to N to not refer to N.
 
 When Object N data Int A is 0, refer graph from Object N is traverse to set Int B 0 for all Object in graph.
 Refer graph is traverse again to add Int B by 1 for refer by Object in graph.
-Refer graph is traverse again to free all Object that has Int A and Int B not equal.
+Refer graph is traverse again to free all Object that has Int A and Int B equal.
 
 
 Allocate Memory consist of Terra Op.
