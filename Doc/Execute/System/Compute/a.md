@@ -4,7 +4,7 @@ Execute System Compute does computation execution.
 
 
 
-There are predefined kinds of compute commands.
+There are predefined kinds of compute op.
 
 
 

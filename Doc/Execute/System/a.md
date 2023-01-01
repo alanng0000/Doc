@@ -2,7 +2,7 @@
 
 
 
-Execute System executes compute commands to do computation.
+Execute System executes compute op to do computation.
 
 
 
@@ -11,4 +11,4 @@ Execute System consists of [Execute System Memory](Memory/a.md), [Execute System
 
 
 
-Execute System has predefined kinds of [compute commands](ComputeCommand/a.md) to do any computation.
+Execute System has predefined kinds of compute op to do any computation.
