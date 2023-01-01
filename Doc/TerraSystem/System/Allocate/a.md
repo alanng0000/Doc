@@ -31,7 +31,7 @@ Int A is refer count from any Object.
 Int B is refer count from any Object in refer graph of free.
 
 
-Int C is next refer of link list of Object root that Int A and Int B not equal.
+Int C is next refer of link list of Object root that has Int A and Int B not equal.
 
 
 Int D is flag that is in refer graph of any Object root that has Int A and Int B not equal.
