@@ -4,4 +4,4 @@
 **Class** is unit of abstract.
 
 
-Class define [Object](Object/a.md).
+Class define [Object](../Object/a.md).
