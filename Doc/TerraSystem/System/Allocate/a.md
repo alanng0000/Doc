@@ -54,7 +54,7 @@ Object A is traverse by link current tail Object B Int C to refer to Object A.
 
 
 
-When Object N data Int A is 0, refer graph from Object N is traverse to set Int B 0, set Int D flag B 0 for all Object in graph.
+When Object N data Int A sub 1, refer graph from Object N is traverse to set Int B 0, set Int D flag B 0 for all Object in graph.
 
 Refer graph is traverse again so Object Int D flag A is back to 0.
 
