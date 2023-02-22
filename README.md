@@ -1,4 +1,4 @@
-# **Terra Doc**
+# Terra Doc
 
 Doc for Terra.
 
