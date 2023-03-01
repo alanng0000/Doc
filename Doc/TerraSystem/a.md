@@ -5,7 +5,7 @@
 
 
 
-Terra System is execute by [System System](../Execute/ExecuteSystem/a.md).
+Terra System is execute by [System System](../System/System/a.md).
 
 
 
