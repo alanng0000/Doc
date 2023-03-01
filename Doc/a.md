@@ -16,7 +16,7 @@ This Doc use [English](English/a.md) with language rules that meaning can be alw
 
 
 
-**Terra** is execute plat.
+**Terra** is execute platform.
 
 
 Terra is complete.
