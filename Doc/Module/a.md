@@ -1,4 +1,4 @@
-# **Module**
+# Module
 
 
 **Module** is unit of execution that can do anything in [info tech](../InfoTech/a.md).
