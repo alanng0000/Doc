@@ -1,14 +1,14 @@
-# **Execute System**
+# System System
 
 
 
-Execute System executes compute op to do computation.
+System System executes compute op to do computation.
 
 
 
-Execute System consists of [Execute System Memory](Memory/a.md), [Execute System Compute](Compute/a.md), and [Execute System Effect](Effect/a.md).
+System System consists of [System System Memory](Memory/a.md), [System System Compute](Compute/a.md), and [System System Effect](Effect/a.md).
 
 
 
 
-Execute System has predefined kinds of compute op to do any computation.
+System System has predefined kinds of compute op to do any computation.
