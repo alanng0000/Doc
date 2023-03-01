@@ -14,4 +14,4 @@ Effect can do anything.
 
 
 
-System consist of [System Program](Program/a.md) and [System System](System/a.md).
+System consist of [System Program](../TerraSystem/a.md) and [System System](System/a.md).

@@ -1,10 +1,10 @@
-# **Execute System Memory**
+# **System System Memory**
 
 
-Execute System Memory stores permanently Execute Program.
+System System Memory stores permanently Execute Program.
 
 
-Execute System Memory also stores data persistently.
+System System Memory also stores data persistently.
 This store is addressable.
 Data is readed from it and writed to it with compute op.
 

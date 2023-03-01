@@ -1,6 +1,6 @@
-# **Execute System Effect**
+# **System System Effect**
 
-Execute System Effect has 6 kinds of effect. They are
+System System Effect has 6 kinds of effect. They are
 - [Control](Control/a.md)
 - Time
 - Video
