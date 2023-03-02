@@ -1,7 +1,7 @@
 # **System System Memory**
 
 
-System System Memory stores permanently Execute Program.
+System System Memory stores permanently System Program.
 
 
 System System Memory also stores data persistently.

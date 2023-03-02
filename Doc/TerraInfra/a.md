@@ -7,4 +7,4 @@ Terra Infra are modules that provide account authentication, public modules, pub
 Functions of Terra Infra are called using network of System System Effect.
 
 
-Terra Infra can be executed locally by Execute. That Terra Infra will provide the functions for that Execute, and the Execute can allow other Executes to use that Terra Infra as well through network.
+Terra Infra can be executed locally by System. That Terra Infra will provide the functions for that System, and the System can allow other Systems to use that Terra Infra as well through network.
