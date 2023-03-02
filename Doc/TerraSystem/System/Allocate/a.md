@@ -1,9 +1,9 @@
-# **Allocate**
+# Allocate
 
 
 
 
-Terra System System allocate [Memory](../../../Execute/System/Memory/a.md) to execute Module.
+Terra System System allocate [Memory](../../../System/System/Memory/a.md) to execute Module.
 
 
 
