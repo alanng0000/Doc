@@ -1,4 +1,4 @@
-# **Auto**
+# Auto
 
 
 Auto is thing that do effect when is controled through network by System.
