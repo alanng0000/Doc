@@ -15,4 +15,4 @@ Terra System is System Program.
 
 
 
-Terra System consist of [Terra System System](System/a.md) and [Terra System Module](Module/a.md).
+Terra System consist of [Terra System System](System/a.md) and [Terra System Mode](Mode/a.md).
