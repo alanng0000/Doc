@@ -22,11 +22,11 @@ This Doc use [English](English/a.md) with language rules that meaning can be alw
 Terra is complete.
 
 
-Terra consists of Terra System, Terra Mode, Terra Infra, Terra Doc, and Terra Source.
+Terra consists of Terra Sema, Terra Mode, Terra Infra, Terra Doc, and Terra Source.
 
 
 
-[**Terra System**](TerraSystem/a.md)
+[**Terra Sema**](TerraSema/a.md)
 
 
 
