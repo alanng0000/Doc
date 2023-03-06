@@ -8,5 +8,5 @@ Auto can be controled when it allow to be controled by any System through a netw
 Auto can allow any network protocol.
 
 
-Any module can use allowed protocol to control Auto.
-Through Auto, module can do any effect.
+Any mode can use allowed protocol to control Auto.
+Through Auto, mode can do any effect.
