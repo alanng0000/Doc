@@ -1,7 +1,7 @@
 # Terra System
 
 
-**Terra System** is system that can execute all module.
+**Terra System** is system that can execute all mode.
 
 
 
