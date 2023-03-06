@@ -1,7 +1,7 @@
 # **Sema Sema Memory**
 
 
-Sema Sema Memory stores permanently Sema Program.
+Sema Sema Memory stores permanently Sema Prom.
 
 
 Sema Sema Memory also stores data persistently.

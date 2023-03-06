@@ -14,4 +14,4 @@ Effect can do anything.
 
 
 
-Sema consist of [Sema Program](../TerraSema/a.md) and [Sema Sema](Sema/a.md).
+Sema consist of [Sema Prom](../TerraSema/a.md) and [Sema Sema](Sema/a.md).

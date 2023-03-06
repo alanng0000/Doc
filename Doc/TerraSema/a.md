@@ -10,7 +10,7 @@ Terra Sema is execute by [Sema Sema](../Sema/Sema/a.md).
 
 
 
-Terra Sema is Sema Program.
+Terra Sema is Sema Prom.
 
 
 
