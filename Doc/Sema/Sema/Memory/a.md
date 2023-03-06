@@ -1,10 +1,10 @@
-# **System System Memory**
+# **Sema Sema Memory**
 
 
-System System Memory stores permanently System Program.
+Sema Sema Memory stores permanently Sema Program.
 
 
-System System Memory also stores data persistently.
+Sema Sema Memory also stores data persistently.
 This store is addressable.
 Data is readed from it and writed to it with compute op.
 

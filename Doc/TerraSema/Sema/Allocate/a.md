@@ -3,7 +3,7 @@
 
 
 
-Terra System System allocate [Memory](../../../System/System/Memory/a.md) to execute Mode.
+Terra Sema Sema allocate [Memory](../../../Sema/Sema/Memory/a.md) to execute Mode.
 
 
 
@@ -12,7 +12,7 @@ Memory Block is in 2^16 byte size.
 
 
 
-Terra System System allocate Memory to make Object when Object is not store in refer to it.
+Terra Sema Sema allocate Memory to make Object when Object is not store in refer to it.
 
 
 

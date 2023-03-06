@@ -1,7 +1,7 @@
-# Terra System Mode
+# Terra Sema Mode
 
 
-Terra System Mode is mode list that is execute when Terra System init.
+Terra Sema Mode is mode list that is execute when Terra Sema init.
 
 
-Terra System Mode consists of infra mode and supervisor mode.
+Terra Sema Mode consists of infra mode and supervisor mode.
