@@ -16,7 +16,7 @@ This Doc use [English](English/a.md) with language rules that meaning can be alw
 
 
 
-**Terra** is module platform.
+**Terra** is mode platform.
 
 
 Terra is complete.
