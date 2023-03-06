@@ -3,11 +3,11 @@
 
 
 
-Terra System System allocate [Memory](../../../System/System/Memory/a.md) to execute Module.
+Terra System System allocate [Memory](../../../System/System/Memory/a.md) to execute Mode.
 
 
 
-Memory available to Module is in Memory Block list.
+Memory available to Mode is in Memory Block list.
 Memory Block is in 2^16 byte size.
 
 
