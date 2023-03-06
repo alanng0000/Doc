@@ -1,10 +1,10 @@
 # Auto
 
 
-Auto is thing that do effect when is controled through network by System.
+Auto is thing that do effect when is controled through network by Sema.
 
 
-Auto can be controled when it allow to be controled by any System through a network protocol.
+Auto can be controled when it allow to be controled by any Sema through a network protocol.
 Auto can allow any network protocol.
 
 

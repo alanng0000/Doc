@@ -1,6 +1,6 @@
-# **System System Compute**
+# **Sema Sema Compute**
 
-System System Compute does computation execution.
+Sema Sema Compute does computation execution.
 
 
 
