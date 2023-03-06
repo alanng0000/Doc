@@ -22,7 +22,7 @@ This Doc use [English](English/a.md) with language rules that meaning can be alw
 Terra is complete.
 
 
-Terra consists of Terra System, Terra Module, Terra Infra, Terra Doc, and Terra Source.
+Terra consists of Terra System, Terra Mode, Terra Infra, Terra Doc, and Terra Source.
 
 
 
@@ -30,7 +30,7 @@ Terra consists of Terra System, Terra Module, Terra Infra, Terra Doc, and Terra 
 
 
 
-[**Terra Module**](TerraModule/a.md)
+[**Terra Mode**](TerraMode/a.md)
 
 
 
