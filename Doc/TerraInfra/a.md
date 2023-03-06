@@ -1,4 +1,4 @@
-# **Terra Infra**
+# Terra Infra
 
 
 Terra Infra are modes that provide account authentication, public modes, public source, mail processing, message processing and docue processing.
