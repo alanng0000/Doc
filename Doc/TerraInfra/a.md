@@ -1,7 +1,7 @@
 # **Terra Infra**
 
 
-Terra Infra are modules that provide account authentication, public modules, public source, mail processing, message processing and docue processing.
+Terra Infra are modes that provide account authentication, public modes, public source, mail processing, message processing and docue processing.
 
 
 Functions of Terra Infra are called using network of Sema Sema Effect.
