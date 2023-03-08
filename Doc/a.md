@@ -10,7 +10,7 @@ This Doc use [English](English/a.md) with language rules that meaning can be alw
 
 
 
-**Terra** is publi with no gate.
+**Terra** is publi no gate.
 
 
 
