@@ -16,7 +16,7 @@ Terra Sema Sema allocate Memory to make Object when Object is not store in refer
 
 
 
-Memory allocate to [Object](../../../Class/Object/a.md) consist of all field data of class derive,
+Memory allocate to [Object](../../../Case/Object/a.md) consist of all field data of class derive,
 Int A, Int B, Int C, Int D.
 Memory is continue in byte for all data to allocate.
 All Memory space is available in 1 allocate.
